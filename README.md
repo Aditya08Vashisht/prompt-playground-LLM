@@ -16,7 +16,8 @@ This is a beginner-friendly interactive playground built with **Streamlit** to e
 
 ## 📸 Demo
 
-![Prompt Playground Screenshot](assets/demo_screenshot.png)
+![image](https://github.com/user-attachments/assets/66ab673f-6e17-4a93-8c5c-a75a1e024dc7)
+
 
 ---
 
