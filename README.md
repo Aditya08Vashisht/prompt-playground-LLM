@@ -26,3 +26,23 @@ This is a beginner-friendly interactive playground built with **Streamlit** to e
 ```bash
 git clone https://github.com/Aditya08Vashisht/prompt-playground-LLM.git
 cd prompt-playground-LLM
+
+2. Create and activate a virtual environment:
+in terminal-
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+3. Install dependencies:
+
+bash-
+pip install -r requirements.txt
+
+4. Create a .env file using .env.example:
+
+bash- 
+OPENROUTER_API_KEY=your_actual_key_here
+
+5. Run the app:
+
+bash- 
+streamlit run app.py
